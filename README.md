@@ -10,7 +10,7 @@ This project does not require any special tools or software to run. You just nee
 # Installation
 To install this project, simply clone the repository to your local machine using Git:
 
-git clone https://github.com/your-username/custom-homepage.git
+git clone https://github.com/adistrim/bing-homepage.git
 Alternatively, you can download the project as a ZIP file and extract it to a directory of your choice.
 
 # Contributing
