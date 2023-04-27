@@ -1,5 +1,5 @@
 # Custom Homepage with Bing Search Bar
-This is a simple web project that allows you to create a custom homepage with a search bar that connects directly to the Bing search engine. The page is built using pure HTML, CSS, and JavaScript, making it easy to customize and deploy on any web server or hosting platform.
+This is a simple web project consisting a beautiful search bar that connects directly to the Bing search engine. The page is built using pure HTML, CSS, and JavaScript, making it easy to customize and deploy on any web server or hosting platform.
 
 # Getting Started
 To get started with this project, simply download or clone the repository to your local machine. Then, open the index.html file in your web browser to view the custom homepage.
